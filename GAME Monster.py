@@ -1,4 +1,3 @@
-#cd
 import random
 
 
@@ -138,8 +137,8 @@ while True:
     
 
     if player == monster:
-        print("Ente kemakan monster gan ")
+        print("Anda kemakan monster ")
         break
     elif player == door:
-        print("Bisa kabur hebat ente gan ")
+        print("Selamat Anda Menang ")
         break
